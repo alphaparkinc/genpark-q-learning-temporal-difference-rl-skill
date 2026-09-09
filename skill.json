@@ -1,0 +1,17 @@
+{
+  "name": "genpark-q-learning-temporal-difference-rl-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Tabular Q-Learning Temporal Difference Reinforcement Learning Engine with Epsilon-Greedy Exploration",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "reinforcement-learning",
+    "q-learning",
+    "temporal-difference",
+    "bellman-equation"
+  ]
+}
